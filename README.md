@@ -1,4 +1,4 @@
-This repository contains everything you need to know as a data analyst.
+This personal repository contains everything I am learning about data analytics.
 It is based on Alex The Analyst's YouTube tutorial series, and this repository contains all my queries.
 
 I will keep the repository updated as I advance with the course.
